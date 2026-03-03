@@ -6,22 +6,15 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/hoangducmanh/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-hoangducmanh-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  &nbsp;
   <a href="https://web.facebook.com/hoang.uc.manh.466145/" target="_blank">
-    <img src="https://img.shields.io/badge/Facebook-Profile-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
   </a>
-  &nbsp;
   <a href="https://github.com/DevFreshMan" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-DevFreshMan-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=DevFreshMan&style=flat-square&color=6EE7F7&label=Profile+Views" />
-</p>
-
 <br/>
 
 ---
