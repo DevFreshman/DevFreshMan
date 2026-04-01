@@ -72,7 +72,7 @@ A RESTful backend API for personal/team task management, built with **Hexagonal 
 - Task status **state machine**: `TODO → IN_PROGRESS → COMPLETED` (no skipping)
 - Role-based access: **USER / ADMIN**
 - Filtering + sorting + pagination (status/priority/deadline)
-- Redis cache with `@Cacheable` / `@CacheEvict`
+- Event-driven cache invalidation via Domain Events and @TransactionalEventListener(AFTER_COMMIT)
 - Rate limiting: **max 5 failed logins / 15 min / IP**
 - Audit log via **Spring AOP** (create/update/delete)
 - Deadline reminder scheduler (daily **8:00 AM**)
